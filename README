@@ -1,0 +1,3 @@
+Runs explain on all your select queries for mysql2.
+
+Only tested for rails 3.1
