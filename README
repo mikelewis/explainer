@@ -1,3 +1,6 @@
 Runs explain on all your select queries for mysql2.
 
 Only tested for rails 3.1
+
+
+Put in config/initializers to work out of the box.
